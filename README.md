@@ -1,15 +1,15 @@
-👋 Merhaba Benim adım Eren Baki Kural
-=====================================
+Hi 👋 My name is Eren Baki Kural
+================================
 
-Web Geliştirici
----------------
+Web Developer
+-------------
 
-* 🌍 Türkiye'de yaşıyorum
-* 🖥️ [Portföyümü Portföyüm'de](http://erenbakikural.rf.gd/portfolio) gör
-* ✉️ Benimle [erenbakikural@hotmail.com](mailto:erenbakikural@hotmail.com)
-* 🚀 Şu anda [Web Sitelerim](http://erenbakikural.rf.gd) üzerinde çalışıyorum
-* 🧠 Photoshop ve illüstratör öğreniyorum
-* 🤝 İlginç projelerde işbirliği yapmaya açığım
+* 🌍  I'm based in Türkiye
+* 🖥️  See my portfolio at [My Portfolio](http://erenbakikural.rf.gd/portfolio)
+* ✉️  You can contact me at [erenbakikural@hotmail.com](mailto:erenbakikural@hotmail.com)
+* 🚀  I'm currently working on [My Web Sites](http://erenbakikural.rf.gd)
+* 🧠  I'm learning photoshop and illustrator
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
