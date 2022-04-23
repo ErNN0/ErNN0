@@ -1,7 +1,7 @@
 Hi 👋 My name is Eren Baki Kural
 ================================
 
-Web Developer
+Developer
 -------------
 
 * 🌍  I'm based in Türkiye
